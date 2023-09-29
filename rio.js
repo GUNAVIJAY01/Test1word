@@ -16,7 +16,7 @@ const make = 'Ford';
 const model = 'Mustang';
 const car = { make, model };
 console.log(car);
-    // ->output:{make: 'Ford', model: 'Mustang'}
+    // ->output:{make: 'Ford', model: 'ustang'}
 // 6. Which of the life cycle method in a React Component is called after the component is rendered for the first time?
         // ->componentDidMount()    
 
